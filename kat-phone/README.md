@@ -33,21 +33,6 @@ Advanced Phone for QB-Core Framework :iphone:
 
 ## Screenshots
 ![Home](https://cdn.discordapp.com/attachments/950632168328134669/1044281693877575801/FiveM_by_Cfx.re_-_Flyaxe_11_21_2022_9_51_23_PM.png)
-![Bank](https://cdn.discordapp.com/attachments/921675245360922625/921675441142644756/bank.jpg)
-![Advert](https://cdn.discordapp.com/attachments/921675245360922625/921675440878415872/advert.jpg)
-![Mail](https://cdn.discordapp.com/attachments/921675245360922625/921675440278614068/mail.jpg)
-![Garage](https://cdn.discordapp.com/attachments/921675245360922625/921675439590760528/garage.jpg)
-![Garage Detail](https://cdn.discordapp.com/attachments/921675245360922625/921675441591422986/garage_in.jpg)
-![services](https://cdn.discordapp.com/attachments/921675245360922625/921675458670641152/services.jpg)
-![Houses](https://cdn.discordapp.com/attachments/921675245360922625/921675440005988362/house.jpg)
-![Racing](https://cdn.discordapp.com/attachments/921675245360922625/921675458423173140/race.jpg)
-![Crypto](https://cdn.discordapp.com/attachments/921675245360922625/921675457718517820/qbit.jpg)
-![Gallery](https://cdn.discordapp.com/attachments/921675245360922625/921675441381736448/gallery.jpg)
-![MEOS](https://cdn.discordapp.com/attachments/921675245360922625/921675440488341534/meos.jpg)
-![Twitter](https://cdn.discordapp.com/attachments/921675245360922625/921675459270438922/twitter.jpg)
-![Settings](https://cdn.discordapp.com/attachments/921675245360922625/921675458905513984/setting.jpg)
-![Whatsapp](https://cdn.discordapp.com/attachments/921675245360922625/921675459517906944/whatsapp.jpg)
-![Phone](https://cdn.discordapp.com/attachments/921675245360922625/921675440677064745/phone.jpg)
 
 ## Features
 - Garages app to see your vehicle details
