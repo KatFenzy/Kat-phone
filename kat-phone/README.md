@@ -1,4 +1,10 @@
 # qb-phone
+
+INSTALLATION!:snowman:
+- DRAG AND DROP TO YOUR SERVER FOLDER.:snowflake:
+- RENAME IT TO qb-phone:snowflake:
+- AND THEN START YOUR SERVER:snowflake:
+
 Advanced Phone for QB-Core Framework :iphone:
 
 # License
